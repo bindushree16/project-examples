@@ -5,5 +5,5 @@ resolver:
   repo: jcenter
   serverID: bindu_art
 deployer:
-  repo: test-gradle-local
+  repo: test-localgradle-bindu
   serverID: bindu_art
