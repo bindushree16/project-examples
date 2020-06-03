@@ -6,5 +6,5 @@ resolver:
   serverID: bindu_art
 deployer:
   snapshotRepo: libs-snapshot-local
-  releaseRepo: libs-release-local
+  releaseRepo: test-localmvn-bindu
   serverID: bindu_art
