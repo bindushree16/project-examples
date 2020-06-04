@@ -1,10 +1,10 @@
 version: 1
 type: maven
 resolver:
-  snapshotRepo: libs-snapshot
-  releaseRepo: libs-release
+  snapshotRepo: libs-snapshot-bi
+  releaseRepo: libs-release-bi
   serverID: bindu_art
 deployer:
-  snapshotRepo: libs-snapshot-local
+  snapshotRepo: libs-snapshot-local-bi
   releaseRepo: test-localmvn-bindu
   serverID: bindu_art
