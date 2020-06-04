@@ -76,7 +76,7 @@
                                 <password>${password}</password>
                                 <excludePatterns>*-tests.jar</excludePatterns>
                                 <repoKey>test-localmvn-bindu</repoKey>
-                                <snapshotRepoKey>libs-snapshot-local</snapshotRepoKey>
+                                <snapshotRepoKey>libs-snapshot-local-bi</snapshotRepoKey>
                             </publisher>
                             <buildInfo>
                                 <buildName>plugin-demo</buildName>
